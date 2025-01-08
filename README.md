@@ -1,21 +1,15 @@
-# 👋 Hi, I'm Sari!
+# 👋 Hi, I'm Sari Shtern!
 
-I'm a passionate developer specializing in full-stack development and building impactful projects.  
-Currently, I'm looking for opportunities to bring my skills in **React**, **Node.js**, **C#**, and **JS** to exciting new challenges.
+I'm a versatile software developer with expertise in **JavaScript**, **C#**, **React**, **Node.js**, and more. Passionate about building impactful solutions and collaborating on exciting projects.
 
 ## 🚀 Skills:
-- **Programming Languages**: JavaScript, C#, Python
-- **Frameworks**: React, Node.js, ASP.NET
-- **Database**: MySQL, MongoDB
-- **Development Principles**: SOLID, Design Patterns
-- **Other Skills**: Git, RESTful APIs, WPF
+- Full-Stack Development | Desktop Apps | Data Management | SOLID Principles
 
-## 🌟 Featured Projects:
-- [**Share and Manage**](https://github.com/yourusername/share-and-manage): A collaborative management app built with React, Node.js, and MySQL.
-- [**Engineering Management Software**](https://github.com/yourusername/engineering-management-software): A WPF application for task and goal management using C# and .NET.
+## 📚 Technologies I Work With:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📫 Contact Me
-- **Email**: sdc2499@gmail.com
-
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
-
+Feel free to explore my repositories and connect with me! 😊
