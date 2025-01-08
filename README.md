@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sari!
 
-<!--
-**sdc2499/sdc2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in full-stack development and building impactful projects.  
+Currently, I'm looking for opportunities to bring my skills in **React**, **Node.js**, **C#**, and **JS** to exciting new challenges.
 
-Here are some ideas to get you started:
+## 🚀 Skills:
+- **Programming Languages**: JavaScript, C#, Python
+- **Frameworks**: React, Node.js, ASP.NET
+- **Database**: MySQL, MongoDB
+- **Development Principles**: SOLID, Design Patterns
+- **Other Skills**: Git, RESTful APIs, WPF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects:
+- [**Share and Manage**](https://github.com/yourusername/share-and-manage): A collaborative management app built with React, Node.js, and MySQL.
+- [**Engineering Management Software**](https://github.com/yourusername/engineering-management-software): A WPF application for task and goal management using C# and .NET.
+
+## 📫 Contact Me
+- **Email**: sdc2499@gmail.com
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+
