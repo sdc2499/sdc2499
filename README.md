@@ -18,4 +18,6 @@ I'm a passionate developer with expertise in full-stack, frontend, and backend t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Feel free to explore my repositories and connect with me! 😊
+Feel free to explore my repositories and [connect with me!](mailto:sdc2499@gmail.com)
+ 😊
+
