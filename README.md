@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sari Shtern!
+## 👋 Hi, I'm Sari Shtern!
 I'm a passionate developer specializing in full-stack development and building impactful projects.  
 Currently, I'm looking for opportunities to bring my skills in **React**, **Node.js**, **C#**, and **.NET** to exciting new challenges.
 
