@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sari Shtern!
 I'm a passionate developer specializing in full-stack development and building impactful projects.  
-Currently, I'm looking for opportunities to bring my skills in **React**, **Node.js**, **C#**, and **.NET** to exciting new challenges.
+Currently, I'm looking for opportunities to bring my skills to exciting new challenges.
 
 ## 📚 Technologies I Work With:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
