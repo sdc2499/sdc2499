@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Sari Shtern!
 I'm a passionate developer with expertise in full-stack, frontend, and backend technologies. I build impactful projects and am currently looking for new opportunities where I can apply my diverse skills to exciting challenges.
 
-### 📚 Technologies I Work With:
+#### 📚 Technologies I Work With:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
